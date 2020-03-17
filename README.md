@@ -1,0 +1,2 @@
+# midTermProjectGraphics
+Project for mid
